@@ -1,0 +1,53 @@
+body{
+    font-family: arial;
+    font-size: 20px;
+}
+.colunas{
+    padding: 0px;
+}
+
+.logo{
+    padding: 10px;
+    height: 50px; 
+    width: 50px;
+    background-color:#FABB51;
+}
+.img-center{
+    background-color: #FAEDC6;
+    border-color: #FAEDC6;
+    border-style: solid;
+    border-width: 3px;
+    width: 250px;
+    height: 250px
+}
+.img-center2{
+    background-color: #3E8E7E;
+    border-color: #3E8E7E;
+    border-style: solid;
+    border-width: 3px;
+    width: 250px;
+    height: 250px
+}
+.navbar{
+    background-color: #3E8E7E;
+}
+.nav-link{
+    color:white;
+}
+.quem-somos{
+    background-color: #7CD1B8;
+    padding-bottom: 15px;
+    color: #FAEDC6
+}
+.link-section{
+    background-color: #FAEDC6;
+    padding-bottom: 15px;
+    color: #3E8E7E
+}
+.parceiros{
+    background-color:#3E8E7E ;
+    padding-bottom: 30px;
+}
+.margin{
+    padding-top: 30px;
+}
